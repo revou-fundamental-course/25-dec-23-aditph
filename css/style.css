@@ -1,1 +1,13 @@
-/* untuk test git */
+header {
+    position: fixed;
+    top: 0;
+    text-align: center;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+} 
+
+main {
+    margin-top: 100px; /* add some margin to the top of the main content */
+}
